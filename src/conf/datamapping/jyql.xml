@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="GBK"?>
+<!--交易全量-->
+<resultMap id="BaseResultMap" type="com.cardpay.pccredit.tools.XM_NEW_JY_QL">
+    <result column="CREATED_TIME" jdbcType="DATE_NOW" index="" style="yyyyMMdd"/>
+    <result column="AUTH_CODE"		  index="1"   jdbcType="VARCHAR" />
+	<result column="BANK"             index="2"   jdbcType="VARCHAR" />
+	<result column="BILL_AMT"         index="3"   jdbcType="VARCHAR" />
+	<result column="BILL_AMT_SIGN"    index="4"   jdbcType="VARCHAR" />
+	<result column="BRNO"             index="5"   jdbcType="VARCHAR" />
+	<result column="CANCL_CODE"       index="6"   jdbcType="VARCHAR" />
+	<result column="CAP_ADDR"         index="7"   jdbcType="VARCHAR" />
+	<result column="CARD_FLAG"        index="8"   jdbcType="VARCHAR" />
+	<result column="CARD_NBR"         index="9"   jdbcType="VARCHAR" />
+	<result column="CB_RIGHTS"        index="10"  jdbcType="VARCHAR" />
+	<result column="CURRNCY_CD"       index="11"  jdbcType="VARCHAR" />
+	<result column="DATA_DT"          index="12"  jdbcType="VARCHAR" />
+	<result column="DESC_PRINT"       index="13"  jdbcType="VARCHAR" />
+	<result column="DES_LINE1"        index="14"  jdbcType="VARCHAR" />
+	<result column="DES_LINE2"        index="15"  jdbcType="VARCHAR" />
+	<result column="EMPNO"            index="16"  jdbcType="VARCHAR" />
+	<result column="ETL_LOAD_DT"      index="17"  jdbcType="VARCHAR" />
+	<result column="INP_DATE"         index="18"  jdbcType="VARCHAR" />
+	<result column="INP_TIME"         index="19"  jdbcType="VARCHAR" />
+	<result column="INST_NO"          index="20"  jdbcType="VARCHAR" />
+	<result column="MERCHANT"         index="21"  jdbcType="VARCHAR" />
+	<result column="MERCH_SEQ"        index="22"  jdbcType="VARCHAR" />
+	<result column="MER_CAT_CD"       index="23"  jdbcType="VARCHAR" />
+	<result column="MICRO_REF"        index="24"  jdbcType="VARCHAR" />
+	<result column="MONTH_NBR"        index="25"  jdbcType="VARCHAR" />
+	<result column="ORGN_AMT"         index="26"  jdbcType="VARCHAR" />
+	<result column="ORGN_CURR"        index="27"  jdbcType="VARCHAR" />
+	<result column="PUR_DATE"         index="28"  jdbcType="VARCHAR" />
+	<result column="REV_IND"          index="29"  jdbcType="VARCHAR" />
+	<result column="SCHMFEEAMT"       index="30"  jdbcType="VARCHAR" />
+	<result column="SEC_LVL"          index="31"  jdbcType="VARCHAR" />
+	<result column="SETTLE_DAY"       index="32"  jdbcType="VARCHAR" />
+	<result column="SRC_SYS_NO"       index="33"  jdbcType="VARCHAR" />
+	<result column="SR_TYPE"          index="34"  jdbcType="VARCHAR" />
+	<result column="TERMINALI"        index="35"  jdbcType="VARCHAR" />
+	<result column="TRANS_SRC"        index="36"  jdbcType="VARCHAR" />
+	<result column="TRANS_TYPE"       index="37"  jdbcType="VARCHAR" />
+	<result column="VAL_DATE"         index="38"  jdbcType="VARCHAR" />
+	<result column="XTRANNO"          index="39"  jdbcType="VARCHAR" />
+ </resultMap>

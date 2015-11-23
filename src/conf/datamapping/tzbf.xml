@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<!--台帐部分-->
+<resultMap id="BaseResultMap" type="com.cardpay.pccredit.tools.XM_NEW_TZ_TEMP">
+   <result column="CREATED_TIME" jdbcType="DATE_NOW" index="" style="yyyyMMdd"/>
+   <result column="a1"  index="1" jdbcType="VARCHAR" />
+   <result column="a2"  index="2" jdbcType="VARCHAR"/>
+   <result column="a3"  index="3" jdbcType="VARCHAR" />
+   <result column="a4"  index="4" jdbcType="VARCHAR"/>
+   <result column="a8"  index="8" jdbcType="VARCHAR"/>
+   <result column="a9"  index="9" jdbcType="VARCHAR"/>
+   <result column="a22" index="22" jdbcType="VARCHAR"/>
+   <result column="a29" index="29" jdbcType="VARCHAR"/>
+   <result column="a48" index="48" jdbcType="VARCHAR"/>
+ </resultMap>

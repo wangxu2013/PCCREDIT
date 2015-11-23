@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="GBK"?>
+<!--台帐全量-->
+<resultMap id="BaseResultMap" type="com.cardpay.pccredit.tools.XM_NEW_TZ_TEMP">
+      <result column="CREATED_TIME" jdbcType="DATE_NOW" index="" style="yyyyMMdd"/>
+      <result column="a1 "  index="1"  jdbcType="VARCHAR" />
+	  <result column="a2 "  index="2"  jdbcType="VARCHAR" />
+	  <result column="a3 "  index="3"  jdbcType="VARCHAR" />
+	  <result column="a4 "  index="4"  jdbcType="VARCHAR" />
+	  <result column="a5 "  index="5"  jdbcType="VARCHAR" />
+	  <result column="a6 "  index="6"  jdbcType="VARCHAR" />
+	  <result column="a7 "  index="7"  jdbcType="VARCHAR" />
+	  <result column="a8 "  index="8"  jdbcType="VARCHAR" />
+	  <result column="a9 "  index="9"  jdbcType="VARCHAR" />
+	  <result column="a10"  index="10"  jdbcType="VARCHAR" /> 
+	  <result column="a11"  index="11"  jdbcType="VARCHAR" /> 
+	  <result column="a12"  index="12"  jdbcType="VARCHAR" /> 
+	  <result column="a13"  index="13"  jdbcType="VARCHAR" /> 
+	  <result column="a14"  index="14"  jdbcType="VARCHAR" /> 
+	  <result column="a15"  index="15"  jdbcType="VARCHAR" /> 
+	  <result column="a16"  index="16"  jdbcType="VARCHAR" /> 
+	  <result column="a17"  index="17"  jdbcType="VARCHAR" /> 
+	  <result column="a18"  index="18"  jdbcType="VARCHAR" /> 
+	  <result column="a19"  index="19"  jdbcType="VARCHAR" /> 
+	  <result column="a20"  index="20"  jdbcType="VARCHAR" /> 
+	  <result column="a21"  index="21"  jdbcType="VARCHAR" /> 
+	  <result column="a22"  index="22"  jdbcType="VARCHAR" /> 
+	  <result column="a23"  index="23"  jdbcType="VARCHAR" /> 
+	  <result column="a24"  index="24"  jdbcType="VARCHAR" /> 
+	  <result column="a25"  index="25"  jdbcType="VARCHAR" /> 
+	  <result column="a26"  index="26"  jdbcType="VARCHAR" /> 
+	  <result column="a27"  index="27"  jdbcType="VARCHAR" /> 
+	  <result column="a28"  index="28"  jdbcType="VARCHAR" /> 
+	  <result column="a29"  index="29"  jdbcType="VARCHAR" /> 
+	  <result column="a30"  index="30"  jdbcType="VARCHAR" /> 
+	  <result column="a31"  index="31"  jdbcType="VARCHAR" /> 
+	  <result column="a32"  index="32"  jdbcType="VARCHAR" /> 
+	  <result column="a33"  index="33"  jdbcType="VARCHAR" /> 
+	  <result column="a34"  index="34"  jdbcType="VARCHAR" /> 
+	  <result column="a35"  index="35"  jdbcType="VARCHAR" /> 
+	  <result column="a36"  index="36"  jdbcType="VARCHAR" /> 
+	  <result column="a37"  index="37"  jdbcType="VARCHAR" /> 
+	  <result column="a38"  index="38"  jdbcType="VARCHAR" /> 
+	  <result column="a39"  index="39"  jdbcType="VARCHAR" /> 
+	  <result column="a40"  index="40"  jdbcType="VARCHAR" /> 
+	  <result column="a41"  index="41"  jdbcType="VARCHAR" />  
+	  <result column="a42"  index="42"  jdbcType="VARCHAR" />  
+	  <result column="a43"  index="43"  jdbcType="VARCHAR" />  
+	  <result column="a44"  index="44"  jdbcType="VARCHAR" />  
+	  <result column="a45"  index="45"  jdbcType="VARCHAR" />  
+	  <result column="a46"  index="46"  jdbcType="VARCHAR" />  
+	  <result column="a47"  index="47"  jdbcType="VARCHAR" />  
+	  <result column="a48"  index="48"  jdbcType="VARCHAR" />  
+	  <result column="a49"  index="49"  jdbcType="VARCHAR" />  
+	  <result column="a50"  index="50"  jdbcType="VARCHAR" />  
+	  <result column="a51"  index="51"  jdbcType="VARCHAR" />  
+	  <result column="a52"  index="52"  jdbcType="VARCHAR" />  
+	  <result column="a53"  index="53"  jdbcType="VARCHAR" />  
+	  <result column="a54"  index="54"  jdbcType="VARCHAR" />  
+	  <result column="a55"  index="55"  jdbcType="VARCHAR" />  
+	  <result column="a56"  index="56"  jdbcType="VARCHAR" />  
+	  <result column="a57"  index="57"  jdbcType="VARCHAR" />  
+	  <result column="a58"  index="58"  jdbcType="VARCHAR" />  
+	  <result column="a59"  index="59"  jdbcType="VARCHAR" />  
+	  <result column="a60"  index="60"  jdbcType="VARCHAR" />  
+	  <result column="a61"  index="61"  jdbcType="VARCHAR" />  
+	  <result column="a62"  index="62"  jdbcType="VARCHAR" />  
+	  <result column="a63"  index="63"  jdbcType="VARCHAR" /> 
+	  <result column="a64"  index="64"  jdbcType="VARCHAR" />  
+	  <result column="a65"  index="65"  jdbcType="VARCHAR" />                       
+ </resultMap>

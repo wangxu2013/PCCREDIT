@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="GBK"?>
+<!-- 交易（部分） -->
+<resultMap id="BaseResultMap" type="com.cardpay.pccredit.tools.XM_NEW_JY_TEMP">
+   <result column="CREATED_TIME" jdbcType="DATE_NOW" index="" style="yyyyMMdd"/>
+   <result column="CARD_NBR"  index="1" jdbcType="VARCHAR" />
+   <result column="A3"  index="3" jdbcType="VARCHAR"/>
+   <result column="INP_DATE"  index="5" jdbcType="VARCHAR" />
+ </resultMap>
